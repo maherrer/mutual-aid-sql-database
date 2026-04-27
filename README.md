@@ -37,8 +37,15 @@ Mutual aid groups often operate independently with limited centralized systems. 
 - Further normalization where needed
 - Expand reporting queries
 
+  ## 👥 Contributors
+- **Maybel Herrera**  
+- Tinaria Alnouri 
+- Thomas Lento
+- Anna Shah
+
 ## How to Run
 
 1. Open the SQL file in SQL Server or Azure Data Studio  
 2. Execute the script to create tables and relationships  
 3. Run queries to test and explore the database  
+
