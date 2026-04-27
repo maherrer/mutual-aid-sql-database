@@ -38,6 +38,7 @@ Mutual aid groups often operate independently with limited centralized systems. 
 - Expand reporting queries
 
 ## How to Run
-1. Execute `G1_Final_Project.sql` to create tables
-2. Run insert statements (if included)
-3. Execute queries to test outputs
+
+1. Open the SQL file in SQL Server or Azure Data Studio  
+2. Execute the script to create tables and relationships  
+3. Run queries to test and explore the database  
